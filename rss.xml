@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Modern Design]]></title>
+        <description><![CDATA[Modern Design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 17:06:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Patch - StokkeAustad]]></title>
+            <description><![CDATA[<article><h1>Patch - StokkeAustad</h1><p>We are a design studio based in Oslo. We design and develop objects and spaces.</p></article>]]></description>
+            <link>http://stokkeaustad.com/project/patch-acoustic-panels</link>
+            <guid isPermaLink="false">f7690e39-2e57-411c-b432-0c9ead213d52</guid>
+            <pubDate>Mon, 18 Jul 2016 17:06:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
