@@ -1,0 +1,14 @@
+layout_spectrum: 0.5344550183508545
+typography_spectrum: 0.2897673803381622
+color:
+  brandStrength: 0.5992489447817206
+  lightness: 0.43396970769390464
+  saturation: 0.46296171355061233
+  rhythmicContrast: 0.13782849186100066
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: Modern Design
